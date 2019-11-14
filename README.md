@@ -9,12 +9,15 @@
 <div id="about">
 	<img src="screenshot.png" alt="simple-dark-screenshot"/>
 	<h3>About</h3>
-	<p>Simple Dark is a vim theme aimed at being easy to read and focus with. The goal is to write code with as few distractions as possible.    
+	<p>Simple Dark is a vim theme aimed at being easy to read and focus with. The goal is to write code with as few distractions as possible.
 	</p>
 </div>
 <div id="usage">
 <h3>Usage</h3>
-<p>To use the colorscheme simply copy it to your vim colors directory (Usually <code>~/.vim/colors/</code>). Then edit your vimrc to include <pre><code>colorscheme simple-dark</code></pre></p>
+<p>To use the colorscheme simply copy it to your vim colors directory (Usually <code>~/.vim/colors/</code>).</p>
+<p>Or install with <a href="https://github.com/junegunn/vim-plug">vim-plug:</a></p>
+<pre><code>Plug 'nkatte/simple-dark'</code></pre>
+<p>Then edit your vimrc to include <pre><code>colorscheme simple-dark</code></pre></p>
 </div>
 <div id="license">
 	<h3>License</h3>
